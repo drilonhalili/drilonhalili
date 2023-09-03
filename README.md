@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Drilon</h1>
 <h3 align="center">I'm a passionate frontend developer with a love for creating pixel-perfect, user-friendly web experiences. 🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drilonhalili&label=Profile%20views&color=0e75b6&style=flat" alt="drilonhalili" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drilonhalili&label=Profile%20views&color=0e75b6&style=plastic" alt="drilonhalili" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drilonhalili" alt="drilonhalili" /></a> </p>
+### :woman_technologist: About Me :
 
 - 🌱 I’m currently learning **I'm presently diving into backend development, specifically learning Node.js**
 
@@ -26,7 +26,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/drilonhalili"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/drilonhalili" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drilonhalili&show_icons=true&locale=en&layout=compact" alt="drilonhalili" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drilonhalili&show_icons=true&locale=en" alt="drilonhalili" /></p>
