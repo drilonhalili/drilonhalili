@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drilonhalili&label=Profile%20views&color=0e75b6&style=plastic" alt="drilonhalili" /> </p>
 
-### :man_technologist: About Me :
+### 👨‍💻: About Me :
 
 - 🌱 I’m currently learning **I'm presently diving into backend development, specifically learning Node.js**
 
