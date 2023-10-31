@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drilon</h1>
 <h3 align="center">I'm a passionate frontend developer with a love for creating pixel-perfect, user-friendly web experiences. 🌟</h3>
 
-<p align="center"> <img src="vghpvc/?username=drilonhalili&label=Profile%20views&color=lightgrey&style=plastic" alt="drilonhalili" /> </p>
+<p align="center"> <img src="vghpvc/?username=drilonhalili&label=Profile%20views&color=0e75b6&style=plastic" alt="drilonhalili" /> </p>
 
 ### 👨‍💻 About Me :
 
