@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drilon</h1>
 <h3 align="center">I'm a passionate frontend developer with a love for creating pixel-perfect, user-friendly web experiences. 🌟</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drilonhalili&label=Profile%20views&color=0e75b6&style=plastic" alt="drilonhalili" /> </p>
+<p align="center"> <img src="vghpvc/?username=drilonhalili&label=Profile%20views&color=lightgrey&style=plastic" alt="drilonhalili" /> </p>
 
 ### 👨‍💻 About Me :
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/drilonhalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drilonhalili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/drilonhalili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drilonhalili/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/drilon.halili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/drilon.halili" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/drilon.halili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/drilon.halili/" height="30" width="40" /></a>
+<a href="https://twitter.com/drilonhalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/twitter.svg" alt="drilonhalili" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/drilonhalili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/linked-in-alt.svg" alt="https://www.linkedin.com/in/drilonhalili/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/drilon.halili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/facebook.svg" alt="https://www.facebook.com/drilon.halili" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/drilon.halili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/instagram.svg" alt="https://www.instagram.com/drilon.halili/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
