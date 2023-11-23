@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/drilonhalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/twitter.svg" alt="drilonhalili" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/drilonhalili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/linked-in-alt.svg" alt="https://www.linkedin.com/in/drilonhalili/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/drilon.halili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/facebook.svg" alt="https://www.facebook.com/drilon.halili" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/drilon.halili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/readme/main/images/icons/instagram.svg" alt="https://www.instagram.com/drilon.halili/" height="30" width="40" /></a>
+<a href="https://twitter.com/drilonhalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/drilonhalili/main/images/icons/twitter.svg" alt="drilonhalili" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/drilonhalili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/drilonhalili/main/images/icons/linked-in-alt.svg" alt="https://www.linkedin.com/in/drilonhalili/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/drilon.halili" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/drilonhalili/main/images/icons/facebook.svg" alt="https://www.facebook.com/drilon.halili" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/drilon.halili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/drilonhalili/drilonhalili/main/images/icons/instagram.svg" alt="https://www.instagram.com/drilon.halili/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
