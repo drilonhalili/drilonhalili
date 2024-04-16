@@ -20,7 +20,7 @@ For a comprehensive list of my projects and contributions, you can visit my [Git
 
 ## 📫 How to Reach Me
 
-You can reach out to me via [email](mailto:drilon.halili@gmail.com) or connect with me on [LinkedIn]([linkedin.com/in/drilonhalili/](https://www.linkedin.com/in/drilonhalili/)). Whether it's discussing potential collaborations or just chatting about frontend development, I'm always open to connecting with fellow developers.
+You can reach out to me via [email](mailto:drilon.halili@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/drilonhalili/). Whether it's discussing potential collaborations or just chatting about frontend development, I'm always open to connecting with fellow developers.
 
 ## 💻 My Tech Stack
 
