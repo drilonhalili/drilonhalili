@@ -10,13 +10,13 @@ Despite my experience, I believe in continuous learning and staying updated with
 
 Here are some noteworthy projects I've worked on:
 
-- [https://www.businesshealth.co.uk/](https://www.businesshealth.co.uk/): Brief description
+- [Project 1](https://www.businesshealth.co.uk/): The Business Health website, built with Next.js and Tailwind CSS, serves as a comprehensive platform offering occupational health and wellbeing services. It provides easy access to information about services, appointment booking, and resources for employers and employees seeking to prioritize health in the workplace.
 - [Project 2](link): Brief description
 - [Project 3](link): Brief description
 
-- 👨‍💻 All of my projects are available at [https://www.drilonhalili.live/](https://www.drilonhalili.live/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://www.drilonhalili.live/)
 
-For a comprehensive list of my projects and contributions, you can visit my [https://github.com/drilonhalili](https://github.com/drilonhalili).
+For a comprehensive list of my projects and contributions, you can visit my [GitHub profile](https://github.com/drilonhalili).
 
 ## 📫 How to Reach Me
 
