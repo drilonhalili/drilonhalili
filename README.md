@@ -16,7 +16,7 @@ Here are some noteworthy projects I've worked on:
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://www.drilonhalili.live/)
 
-For a comprehensive list of my projects and contributions, you can visit my [GitHub profile](https://github.com/drilonhalili).
+For a comprehensive list of my projects and contributions, you can visit my [GitHub profile](https://github.com/drilonhalili?tab=repositories).
 
 ## 📫 How to Reach Me
 
