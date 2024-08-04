@@ -1,6 +1,6 @@
 # Hey there, I'm Drilon Halili 👋
 
-I'm an experienced frontend developer with over 5 years of industry experience. I specialize in crafting intuitive user interfaces and delightful user experiences for web applications. My toolkit includes HTML, CSS, JavaScript, and a range of frontend frameworks and libraries like React.js, Angular, and Vue.js.
+I'm an experienced frontend developer with over 5 years of industry experience. I specialize in crafting intuitive user interfaces and delightful user experiences for web applications. My toolkit includes HTML, CSS, JavaScript, and a range of frontend frameworks and libraries like Next.js, React.js, Angular, and Vue.js.
 
 ## 🌱 What I'm Learning
 
