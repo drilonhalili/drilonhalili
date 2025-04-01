@@ -1,41 +1,78 @@
-# Hey there, I'm Drilon Halili 👋
+# **Hey there, I'm Drilon Halili!** 👋  
 
-I'm an experienced frontend developer with over 5 years of industry experience. I specialize in crafting intuitive user interfaces and delightful user experiences for web applications. My toolkit includes HTML, CSS, JavaScript, and a range of frontend frameworks and libraries like Next.js, React.js, Angular and Vue.js.
+🚀 **Passionate frontend developer crafting seamless and scalable web experiences.** With over **5 years of industry experience**, I specialize in building intuitive **user interfaces** and delightful **user experiences** for web applications.  
 
-## 🌱 What I'm Learning
+My toolkit includes **HTML, CSS, JavaScript**, and a range of frontend frameworks like **Next.js, React.js, Angular, and Vue.js**.  
 
-Despite my experience, I believe in continuous learning and staying updated with the latest technologies. Currently, I'm diving deeper into advanced React patterns and performance optimization techniques. I'm also exploring GraphQL as an alternative to REST APIs for more efficient data fetching.
+---
 
-## 💼 My Projects
+## 🌱 **What I'm Learning**  
 
-Here are some noteworthy projects I've worked on:
+I'm always eager to stay ahead of the curve by exploring the latest frontend technologies. Currently, I’m diving deeper into:  
 
-- [Project 1](https://www.businesshealth.co.uk/): The Business Health website, built with Next.js and Tailwind CSS, serves as a comprehensive platform offering occupational health and wellbeing services. It provides easy access to information about services, appointment booking, and resources for employers and employees seeking to prioritize health in the workplace.
-- [Project 2](link): Brief description
-- [Project 3](link): Brief description
+- ⚡ **Advanced React patterns & performance optimizations** to build faster, scalable applications.  
+- 🔗 **GraphQL** as an efficient alternative to REST APIs for seamless data fetching.  
+- 🛠️ **Vite & Bun** for optimizing development workflows and improving performance.  
 
-- 👨‍💻 All of my projects are available at [My portfolio](https://www.drilonhalili.pro/)
+---
 
-For a comprehensive list of my projects and contributions, you can visit my [GitHub profile](https://github.com/drilonhalili?tab=repositories).
+## 💼 **My Projects**  
 
-## 📫 How to Reach Me
+Here are some noteworthy projects I’ve worked on:  
 
-You can reach out to me via [email](mailto:drilon.halili@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/drilonhalili/). Whether it's discussing potential collaborations or just chatting about frontend development, I'm always open to connecting with fellow developers.
+- **[Business Health](https://www.businesshealth.co.uk/):** A Next.js and Tailwind CSS platform offering occupational health and wellbeing services. Features include easy service access, appointment booking, and resources for employers/employees.  
+- **[Project 2](#):** Brief but informative description about what it does.  
+- **[Project 3](#):** Another short but impactful summary.  
 
-## 💻 My Tech Stack
+👨‍💻 Explore more of my work on **[My Portfolio](https://www.drilonhalili.pro/)** or check out my [GitHub repositories](https://github.com/drilonhalili?tab=repositories).  
 
-- Languages: HTML, CSS, JavaScript, TypeScript
-- Frontend Frameworks/Libraries: React.js, Angular, Vue.js
-- State Management: Redux, Vuex
-- Other Tools: Webpack, Babel, ESLint
+---
 
-## 🚀 My Goals
+## 📫 **How to Reach Me**  
 
-As an experienced developer, my goal is to mentor junior developers and contribute to the growth of the tech community. I aim to deepen my expertise in frontend architecture and design principles while exploring opportunities to give back to the community through open-source contributions and knowledge-sharing.
+📩 Email: [drilon.halili@gmail.com](mailto:drilon.halili@gmail.com)  
+💼 LinkedIn: [Drilon Halili](https://www.linkedin.com/in/drilonhalili/)  
 
-## 🤝 Let's Collaborate
+Let’s connect—whether it's about potential collaborations, frontend development best practices, or just geeking out over tech!  
 
-Whether you're looking for a seasoned developer to join your team or seeking advice on frontend development best practices, feel free to reach out. Let's collaborate on innovative projects and make a positive impact in the tech industry together!
+---
 
-## 🤝 Support:
-<p align="left"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/drilonhalili"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/drilonhalili" /></a></p><br><br>
+## 💻 **My Tech Stack**  
+
+### **Core Technologies:**  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks/Libraries:** React.js, Next.js, Angular, Vue.js  
+- **State Management:** Redux, Vuex, Zustand  
+
+### **Tools & Build Systems:**  
+- **Bundlers:** Webpack, Vite, Babel  
+- **Linters & Formatters:** ESLint, Prettier  
+- **Backend & APIs:** GraphQL, REST, Bun  
+
+---
+
+## 🚀 **My Goals**  
+
+- 🏆 **Mentor** junior developers and contribute to the growth of the tech community.  
+- 🎯 Deepen my expertise in **frontend architecture and design principles**.  
+- 🤝 Give back to the community through **open-source contributions & knowledge-sharing**.  
+
+---
+
+## 🤝 **Let’s Collaborate!**  
+
+🚀 Looking for a **frontend expert** to bring your ideas to life? Need advice on best practices? **Let’s work together!** Reach out, and let's build something amazing.  
+
+---
+
+## ☕ **Support My Work**  
+
+If you find my content useful, consider supporting me:  
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/drilonhalili">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" />
+  </a>
+</p>  
+
+---
