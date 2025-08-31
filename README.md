@@ -20,7 +20,7 @@ I'm always eager to stay ahead of the curve by exploring the latest frontend tec
 
 Here are some noteworthy projects I’ve worked on:  
 
-- **[Business Health](https://www.businesshealth.co.uk/):** A Next.js and Tailwind CSS platform offering occupational health and wellbeing services. Features include easy service access, appointment booking, and resources for employers/employees.  
+- **[Business Health](https://businesshealth.vercel.app/):** A Next.js and Tailwind CSS platform offering occupational health and wellbeing services. Features include easy service access, appointment booking, and resources for employers/employees.  
 - **[Project 2](#):** Brief but informative description about what it does.  
 - **[Project 3](#):** Another short but impactful summary.  
 
