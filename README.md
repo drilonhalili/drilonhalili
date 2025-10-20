@@ -1,80 +1,59 @@
-# **Hey there, I'm Drilon Halili!** 👋  
+# Hey there, I’m Drilon Halili! 👋
 
-🚀 **Passionate frontend developer crafting seamless and scalable web experiences.** With over **5 years of industry experience**, I specialize in building intuitive **user interfaces** and delightful **user experiences** for web applications.  
-
-My toolkit includes **HTML, CSS, JavaScript**, and a range of frontend frameworks like **Next.js, React.js, Angular, and Vue.js**.  
+Passionate Frontend Engineer crafting seamless, scalable, and accessible web experiences. With over 4 years of industry experience, I specialize in building intuitive user interfaces and delightful user experiences for modern web applications.
 
 ---
 
-## 🌱 **What I'm Learning**  
-
-I'm always eager to stay ahead of the curve by exploring the latest frontend technologies. Currently, I’m diving deeper into:  
-
-- ⚡ **Advanced React patterns & performance optimizations** to build faster, scalable applications.  
-- 🔗 **GraphQL** as an efficient alternative to REST APIs for seamless data fetching.  
-- 🛠️ **Vite & Bun** for optimizing development workflows and improving performance.  
+## What I’m Working On  
+I’m always eager to stay ahead of the curve by exploring the latest frontend technologies and refining my craft. Currently, I’m diving deeper into:  
+- ⚡ Advanced React and Next.js patterns, performance optimization, and scalable architecture.  
+- GraphQL and headless APIs as efficient, modern alternatives to traditional REST workflows.  
+- Modern build tools like Vite & Bun and focusing on full-stack or edge-capable architectures.  
 
 ---
 
-## 💼 **My Projects**  
-
+## My Projects  
 Here are some noteworthy projects I’ve worked on:  
+- **Multi-Tenant QR Menu Platform** – Built with Next.js, TypeScript and Tailwind CSS: restaurants (tenants) on custom sub-domains, dynamic menus, localized content, Redis for domain management and live updates.  
+- **Business Health Platform** – A Next.js + Firebase solution for occupational health and wellbeing services: responsive modern UI, seamless auth and performance optimizations.  
+- **My Personal Portfolio** – Designed and implemented using Next.js and Tailwind CSS, with SEO-optimized code, responsive layout, EmailJS integration, and a clean showcase of my work & skills.  
 
-- **[Business Health](https://businesshealth.vercel.app/):** A Next.js and Tailwind CSS platform offering occupational health and wellbeing services. Features include easy service access, appointment booking, and resources for employers/employees.  
-- **[Project 2](#):** Brief but informative description about what it does.  
-- **[Project 3](#):** Another short but impactful summary.  
-
-👨‍💻 Explore more of my work on **[My Portfolio](https://www.drilonhalili.pro/)** or check out my [GitHub repositories](https://github.com/drilonhalili?tab=repositories).  
-
----
-
-## 📫 **How to Reach Me**  
-
-📩 Email: [drilon.halili@gmail.com](mailto:drilon.halili@gmail.com)  
-💼 LinkedIn: [Drilon Halili](https://www.linkedin.com/in/drilonhalili/)  
-
-Let’s connect—whether it's about potential collaborations, frontend development best practices, or just geeking out over tech!  
+Explore more of my work on [My Portfolio](https://www.drilonhalili.pro) or check out my [GitHub repositories](https://github.com/drilonhalili).
 
 ---
 
-## 💻 **My Tech Stack**  
-
-### **Core Technologies:**  
-
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks/Libraries:** React.js, Next.js, Angular, Vue.js  
-- **State Management:** Redux, Vuex, Zustand  
-
-### **Tools & Build Systems:**  
-
-- **Bundlers:** Webpack, Vite, Babel  
-- **Linters & Formatters:** ESLint, Prettier  
-- **Backend & APIs:** GraphQL, REST, Bun  
+## How to Reach Me  
+Email: drilon.halili@gmail.com  
+LinkedIn: [Drilon Halili](https://www.linkedin.com/in/drilonhalili)  
+Let’s connect — whether it’s potential collaborations, frontend best practices or just geeking out over UI/UX and performance!  
 
 ---
 
-## 🚀 **My Goals**  
+## My Tech Stack  
+### Core Technologies:  
+- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- Frameworks/Libraries: React.js, Next.js, Angular, Vue.js  
 
-- 🏆 **Mentor** junior developers and contribute to the growth of the tech community.  
-- 🎯 Deepen my expertise in **frontend architecture and design principles**.  
-- 🤝 Give back to the community through **open-source contributions & knowledge-sharing**.  
+### Styling & UI Tools:  
+- Tailwind CSS, Styled Components, Emotion, Bootstrap, Ant Design  
+
+### State & Data Management:  
+- Redux, Zustand, Context API, GraphQL  
+
+### Tools & Build Systems:  
+- Webpack, Babel, Vite, Yarn/NPM, ESLint, Prettier  
+
+### APIs & Integration:  
+- REST, GraphQL, WebSockets, Firebase, Supabase, Auth0  
+
+---
+
+## My Goals  
+- Mentor junior developers and contribute actively to the community.  
+- Deepen my expertise in frontend architecture, accessibility, and performance design.  
+- Give back through open-source contributions, knowledge sharing and meaningful collaborations.  
 
 ---
 
-## 🤝 **Let’s Collaborate!**  
-
-🚀 Looking for a **frontend expert** to bring your ideas to life? Need advice on best practices? **Let’s work together!** Reach out, and let's build something amazing.  
-
----
-
-## ☕ **Support My Work**  
-
-If you find my content useful, consider supporting me:  
-
-<p align="left">
-  <a href="https://www.buymeacoffee.com/drilonhalili">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me on BuyMeACoffee" />
-  </a>
-</p>  
-
----
+## ☕ Support My Work  
+If you’ve found my content useful or you’d like to support my projects, feel free to grab me a coffee!  
